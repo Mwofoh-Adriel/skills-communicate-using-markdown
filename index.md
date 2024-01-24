@@ -1,6 +1,10 @@
 # H1 Hello there,
 # H2
-# H3
-# H4 Stop.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git init
+Initialized empty Git repository in  https://github.com/Mwofoh-Adriel/skills-communicate-using-markdown/blob/start-markdown/index.md/.git/
+```
+
